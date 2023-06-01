@@ -1,2 +1,2 @@
 # bsoc
-Making this for assignment and exploring library
+I'm creating this pvt repo for uploading my assignment file.
